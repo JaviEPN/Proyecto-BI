@@ -1,0 +1,30 @@
+@relation emocion
+
+@attribute mayuscula {yes,no}
+@attribute paises {yes,no}
+@attribute ciudades {yes,no}
+@attribute numPalabras real
+@attribute puntiacion {yes,no}
+@attribute resul {neutro,positivo,negativo}
+
+@data
+yes,no,yes,27,yes,neutro
+yes,no,no,30,yes,positivo
+yes,no,no,10,yes,negativo
+yes,no,no,12,yes,neutro
+yes,no,no,11,yes,neutro
+yes,no,no,18,yes,positivo
+yes,no,no,31,yes,positivo
+yes,no,no,23,yes,neutro
+yes,no,no,11,yes,positivo
+yes,no,no,19,yes,positivo
+yes,no,no,29,yes,neutro
+yes,no,no,15,yes,positivo
+yes,no,no,17,yes,neutro
+yes,no,no,13,yes,positivo
+yes,no,no,9,yes,neutro
+yes,no,no,16,yes,positivo
+yes,no,no,10,yes,negativo
+yes,no,no,22,yes,negativo
+yes,no,no,34,yes,neutro
+yes,no,no,42,yes,neutro

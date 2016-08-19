@@ -1,0 +1,61 @@
+@relation emocion
+
+@attribute noun {yes,no}
+@attribute prepositional {yes,no}
+@attribute CoordinatingConjunction {yes,no}
+@attribute SubordinatingConjunction {yes,no}
+@attribute ConjuntiveAdverbs {yes,no}
+@attribute verbPositive real
+@attribute verbNegative real
+@attribute adjetivePositive real
+@attribute adjetiveNegative real
+@attribute numPalabras real
+@attribute puntiacion {yes,no}
+@attribute resul {neutro,positivo,negativo}
+
+
+@data
+yes,yes,no,no,no,0,1,0,0,14,yes,? 
+yes,yes,no,no,no,0,1,0,0,21,yes,? 
+yes,yes,no,no,no,0,1,0,0,6,yes,? 
+yes,yes,no,no,no,0,2,0,0,36,yes,? 
+yes,yes,no,no,no,0,4,0,0,23,yes,? 
+yes,yes,no,no,no,0,2,0,0,33,yes,? 
+yes,yes,no,no,no,0,1,0,1,42,yes,? 
+yes,yes,no,no,no,0,0,1,0,24,yes,? 
+yes,yes,no,no,no,0,2,1,0,37,yes,? 
+yes,yes,no,no,no,0,0,0,0,35,yes,? 
+yes,yes,no,yes,no,0,0,1,0,11,yes,? 
+yes,yes,no,no,no,0,0,0,0,16,yes,? 
+yes,yes,no,yes,no,0,1,0,0,28,yes,? 
+yes,yes,no,no,no,0,1,0,0,47,yes,? 
+yes,yes,no,no,no,0,0,0,0,31,yes,? 
+yes,yes,no,no,yes,0,1,0,1,50,yes,? 
+yes,yes,no,yes,no,0,2,0,1,64,yes,? 
+yes,yes,no,no,no,0,5,0,0,40,yes,? 
+yes,yes,no,no,no,0,3,0,1,35,yes,? 
+yes,yes,no,no,no,0,1,0,0,12,yes,? 
+yes,yes,no,no,no,0,1,0,0,28,yes,? 
+yes,yes,no,no,no,0,0,0,0,8,yes,? 
+yes,yes,no,no,no,0,1,0,0,14,yes,? 
+yes,yes,no,no,no,0,2,0,0,33,yes,? 
+yes,yes,no,no,no,0,0,0,0,15,yes,? 
+yes,yes,no,no,no,0,0,0,0,21,yes,? 
+yes,yes,no,no,no,0,1,0,0,38,yes,? 
+yes,yes,no,no,no,0,0,0,0,22,yes,? 
+yes,yes,no,no,no,0,0,0,0,57,yes,? 
+yes,yes,no,no,no,0,2,0,0,36,yes,? 
+yes,yes,no,no,no,0,2,1,0,30,yes,? 
+yes,yes,no,no,no,0,0,0,0,13,yes,? 
+yes,yes,no,no,no,0,1,0,0,30,yes,? 
+yes,yes,no,no,no,0,1,0,0,21,yes,? 
+yes,yes,no,no,no,0,0,0,0,9,yes,? 
+yes,yes,no,no,no,0,1,0,0,29,yes,? 
+yes,yes,no,no,no,0,1,0,0,26,yes,? 
+yes,yes,no,no,no,0,0,0,0,37,yes,? 
+yes,yes,no,no,no,0,1,0,0,26,yes,? 
+yes,yes,no,no,no,0,1,0,0,22,yes,? 
+yes,yes,no,no,no,0,0,0,0,13,yes,? 
+yes,yes,no,no,no,0,1,0,1,29,yes,? 
+yes,yes,no,no,no,0,1,0,1,26,yes,? 
+yes,yes,no,no,no,0,2,0,0,43,yes,? 

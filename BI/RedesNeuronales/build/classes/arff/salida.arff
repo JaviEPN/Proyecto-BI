@@ -1,0 +1,59 @@
+@relation emocion
+@attribute noun {yes,no}
+@attribute prepositional {yes,no}
+@attribute CoordinatingConjunction {yes,no}
+@attribute SubordinatingConjunction {yes,no}
+@attribute ConjuntiveAdverbs {yes,no}
+@attribute verbPositive numeric
+@attribute verbNegative numeric
+@attribute adjetivePositive numeric
+@attribute adjetiveNegative numeric
+@attribute numPalabras numeric
+@attribute puntiacion {yes,no}
+@attribute resul {neutro,positivo,negativo}
+@data
+yes,yes,no,no,no,0,1,0,0,14,yes,neutro 
+yes,yes,no,no,no,0,1,0,0,21,yes,neutro 
+yes,yes,no,no,no,0,1,0,0,6,yes,neutro 
+yes,yes,no,no,no,0,2,0,0,36,yes,neutro 
+yes,yes,no,no,no,0,4,0,0,23,yes,negativo 
+yes,yes,no,no,no,0,2,0,0,33,yes,neutro 
+yes,yes,no,no,no,0,1,0,1,42,yes,negativo 
+yes,yes,no,no,no,0,0,1,0,24,yes,neutro 
+yes,yes,no,no,no,0,2,1,0,37,yes,neutro 
+yes,yes,no,no,no,0,0,0,0,35,yes,neutro 
+yes,yes,no,yes,no,0,0,1,0,11,yes,neutro 
+yes,yes,no,no,no,0,0,0,0,16,yes,neutro 
+yes,yes,no,yes,no,0,1,0,0,28,yes,neutro 
+yes,yes,no,no,no,0,1,0,0,47,yes,neutro 
+yes,yes,no,no,no,0,0,0,0,31,yes,neutro 
+yes,yes,no,no,yes,0,1,0,1,50,yes,negativo 
+yes,yes,no,yes,no,0,2,0,1,64,yes,negativo 
+yes,yes,no,no,no,0,5,0,0,40,yes,positivo  
+yes,yes,no,no,no,0,3,0,1,35,yes,negativo 
+yes,yes,no,no,no,0,1,0,0,12,yes,neutro 
+yes,yes,no,no,no,0,1,0,0,28,yes,neutro 
+yes,yes,no,no,no,0,0,0,0,8,yes,neutro 
+yes,yes,no,no,no,0,1,0,0,14,yes,neutro 
+yes,yes,no,no,no,0,2,0,0,33,yes,neutro 
+yes,yes,no,no,no,0,0,0,0,15,yes,neutro 
+yes,yes,no,no,no,0,0,0,0,21,yes,neutro 
+yes,yes,no,no,no,0,1,0,0,38,yes,neutro 
+yes,yes,no,no,no,0,0,0,0,22,yes,neutro 
+yes,yes,no,no,no,0,0,0,0,57,yes,negativo 
+yes,yes,no,no,no,0,2,0,0,36,yes,neutro 
+yes,yes,no,no,no,0,2,1,0,30,yes,neutro 
+yes,yes,no,no,no,0,0,0,0,13,yes,neutro 
+yes,yes,no,no,no,0,1,0,0,30,yes,neutro 
+yes,yes,no,no,no,0,1,0,0,21,yes,neutro 
+yes,yes,no,no,no,0,0,0,0,9,yes,neutro 
+yes,yes,no,no,no,0,1,0,0,29,yes,neutro 
+yes,yes,no,no,no,0,1,0,0,26,yes,neutro 
+yes,yes,no,no,no,0,0,0,0,37,yes,neutro 
+yes,yes,no,no,no,0,1,0,0,26,yes,neutro 
+yes,yes,no,no,no,0,1,0,0,22,yes,neutro 
+yes,yes,no,no,no,0,0,0,0,13,yes,neutro 
+yes,yes,no,no,no,0,1,0,1,29,yes,negativo 
+yes,yes,no,no,no,0,1,0,1,26,yes,negativo 
+yes,yes,no,no,no,0,2,0,0,43,yes,neutro 
+
